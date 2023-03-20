@@ -1,0 +1,19 @@
+body {
+    width: 980px;
+    margin: 0 auto;
+    font-family: monospace;
+    font-size: 120%;
+    background-color: white;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    text-transform: uppercase;
+}
+
+#issMap {
+    height: 400px;
+}
